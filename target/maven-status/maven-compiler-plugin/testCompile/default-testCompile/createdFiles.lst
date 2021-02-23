@@ -1,0 +1,4 @@
+HMS\admin\testcases\testFrontOffice.class
+HMS\admin\testcases\testhomepage.class
+HMS\admin\testcases\testvisitorpage.class
+HMS\admin\testcases\testlogin.class
